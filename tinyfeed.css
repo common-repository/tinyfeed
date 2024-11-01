@@ -1,0 +1,8 @@
+
+/* don't display anything until the feed loads */
+.widget_tinyfeed {display:none;}
+
+/* puts the date on a separate line */
+/* REMOVE this line if desired
+.tinyfeed-box .entry a.date{display:block;}
+/**/
